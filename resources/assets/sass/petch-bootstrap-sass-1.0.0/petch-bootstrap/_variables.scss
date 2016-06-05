@@ -1,0 +1,25 @@
+//
+// Variables
+// --------------------------------------------------
+
+
+//== File Input
+
+$fileinput-thumbnail-width:  180px !default;
+$fileinput-thumbnail-height: 180px !default;
+$fileinput-thumbnail-bg:     #F8F8F8 !default;
+
+//== Forms
+$input-bg-color: #fff !default;
+$input-disabled-color: rgba(0,0,0, .26) !default;
+$input-disabled-solid-color: #BDBDBD !default;
+
+// Radio Buttons
+$radio-fill-color: $brand-primary !default;
+$radio-empty-color: #5a5a5a !default;
+
+// Switches
+$switch-bg-color: $brand-primary !default;
+$switch-checked-lever-bg: desaturate(lighten($brand-primary, 25%), 25%) !default;
+$switch-unchecked-bg: #F1F1F1 !default;
+$switch-unchecked-lever-bg: #818181 !default;

@@ -1,0 +1,35 @@
+.btn-thsarabun {
+	font-family: "THSarabunNew";
+	font-size: 1.44em;
+	line-height: 1;
+	font-weight: 500;
+
+	&.btn-xxl {
+		font-size: 2em;
+		line-height: 1;
+		font-weight: 600;
+	}
+	&.btn-lg {
+		font-size: 1.4em;
+	}
+	&.btn-sm {
+		font-size: 1.25em;
+	}
+	&.btn-xs {
+		font-size: 1.22em;
+		line-height: 1.1;
+	}
+}
+
+.btn-xxl {
+	@include button-size(12px, 20px, ceil(($font-size-base * 1.8)), 1.5, 8px);
+}
+
+
+.btn-plain-alt {
+  @include button-variant(#FFF, transparent, #FFF);
+
+  &:hover {
+  	background-color: rgba(0, 0, 0, .2);
+  }
+}

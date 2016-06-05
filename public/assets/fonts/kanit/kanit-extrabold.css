@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Kanit";
+  src: url(Kanit-ExtraBold.ttf) format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kanit";
+  src: url(Kanit-ExtraBoldItalic.ttf) format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}

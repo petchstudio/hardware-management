@@ -1,0 +1,37 @@
+.nav-header {
+	height: $navbar-height;
+
+	.input-group {
+		.input-group-addon {
+			background-color: #fff;
+		}
+		.form-control {
+			border-left: medium none;
+			padding-left: 0px;
+		}
+	}
+}
+
+.navbar-collapse {
+	text-align: center;
+
+	a:not(.btn) {
+		color: #666;
+
+		&:hover, &:focus, &.active {
+			color: #5BC0DE;
+		}
+
+		&.active {
+			font-weight: 700;
+		}
+	}
+
+	@media (min-width: $grid-float-breakpoint) {
+		text-align: left;
+	}
+}
+
+.navbar-form {
+	border: 0;
+}

@@ -1,0 +1,1235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Req",
+				"Request::input	Retrieve an input item from the request."
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"A",
+				"Auth::user	Get the currently authenticated user."
+			],
+			[
+				"va",
+				"vertical-align: "
+			],
+			[
+				"w",
+				"width: "
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"tr",
+				"target	Attr"
+			],
+			[
+				"Route",
+				"Route::group	Create a Group of Routes"
+			],
+			[
+				"is",
+				"is_null"
+			],
+			[
+				"box",
+				"box-sizing: "
+			],
+			[
+				"bdra",
+				"border-radius: "
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bgc",
+				"background-color: "
+			],
+			[
+				"bdb",
+				"border-bottom: "
+			],
+			[
+				"bdrt",
+				"border-top: "
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"v",
+				"vertical-align: "
+			],
+			[
+				"bd",
+				"border: "
+			],
+			[
+				"bg",
+				"background-image: "
+			],
+			[
+				"requ",
+				"Request"
+			],
+			[
+				"isn",
+				"is_numeric"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"char",
+				"CharIDEnd"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"te",
+				"text-indent: "
+			],
+			[
+				"Auth",
+				"Auth::user	Get the currently authenticated user."
+			],
+			[
+				"DB",
+				"DB"
+			],
+			[
+				"connt",
+				"connection"
+			],
+			[
+				"rm",
+				"rm-mit	The MIT License"
+			],
+			[
+				"rm-git",
+				"rm-github_webpage	GitHub Web page"
+			],
+			[
+				"fon",
+				"font-family: "
+			],
+			[
+				"o",
+				"outline: "
+			],
+			[
+				"bdrb",
+				"border-bottom-left-radius: "
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"DBc",
+				"db2_connect"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"View",
+				"View::share	Share Data across all Views"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wor",
+				"word-wrap: "
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"file",
+				"file_put_contents"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"Routec",
+				"Route::controller	Route a controller to a URI with wildcard routing."
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"ou",
+				"outerWidth	.outerWidth()"
+			],
+			[
+				"eac",
+				"each	$.each()"
+			],
+			[
+				"min",
+				"min-height: "
+			],
+			[
+				"tra",
+				"transform: "
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"ma",
+				"max	Attr"
+			],
+			[
+				"ha",
+				"hardware"
+			],
+			[
+				"hard",
+				"hardwares"
+			],
+			[
+				"เพิ่ม",
+				"เพิ่มข้อมูล"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"Reque",
+				"Request::ajax	Determine if the request is the result of an AJAX call."
+			],
+			[
+				"g",
+				"get	.get()"
+			],
+			[
+				"pra",
+				"parents	.parents()"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"bdr",
+				"border-top-right-radius: "
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"ba",
+				"background-attachment: "
+			],
+			[
+				"b",
+				"background-repeat: "
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"text",
+				"text-transform: "
+			],
+			[
+				"t",
+				"top: "
+			],
+			[
+				"l",
+				"left: "
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"get_cont",
+				"file_get_contents"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"af",
+				"insertAfter"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"bdbr",
+				"border-bottom-right-radius: "
+			],
+			[
+				"ls",
+				"list-style: "
+			],
+			[
+				"br",
+				"border-radius: "
+			],
+			[
+				"tt",
+				"text-transform: "
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"m",
+				"margin: "
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-t",
+				"border-top: "
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"server",
+				"server_output"
+			],
+			[
+				"mar",
+				"margin: "
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"fw",
+				"font-weight: "
+			],
+			[
+				"ta",
+				"text-align: "
+			],
+			[
+				"floa",
+				"float"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"bxs",
+				"bxsh:n	box-shadow:none"
+			],
+			[
+				"wh",
+				"width	.width()"
+			],
+			[
+				"ca",
+				"categorys"
+			],
+			[
+				"ov",
+				"ov:h	overflow:hidden"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"mh",
+				"mah	max-height"
+			],
+			[
+				"z",
+				"zin	z-index"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"sli",
+				"slideUp	.slideUp()"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"fals",
+				"fails"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"stru",
+				"strtoupper"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"animat",
+				"animate	.animate()"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"bn",
+				"bd-n	border: none;"
+			],
+			[
+				"Refill",
+				"RefillCallbackController"
+			],
+			[
+				"mi",
+				"mih	min-height"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "formate",
+		"selected_items":
+		[
+			[
+				"formate",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"for",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/Website/works.petch.hardware-management",
+		"/D/Work/Website/works.petch.hardware-management/public/assets",
+		"/D/Work/Website/works.petch.hardware-management/public/assets/js"
+	],
+	"file_history":
+	[
+		"/D/Work/Website/works.petch.hardware-management/public/assets/fontsdompdf_font_family_cache.php",
+		"/D/Work/Website/works.petch.hardware-management/resources/views/manage/dashboard.blade.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/.gitignore",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/resources/views/admin/request/index.blade.php",
+		"/D/Work/Website/_warz_hack/config.inc.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/public/assets/js/init.js",
+		"/D/Work/Website/com.syslogmatch/resources/views/me/work.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/profile/show.blade.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/routes.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/ProfileController.php",
+		"/D/Work/Website/com.syslogmatch/app/Address.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/MeController.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/ProjectController.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/project/start.blade.php",
+		"/D/Work/Website/com.syslogmatch/app/Project.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/includes/statistics.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/project/list.blade.php",
+		"/D/Work/Website/com.syslogmatch/app/User.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/register.blade.php",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_02_094456_create_email_verification_table.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/me/settings.blade.php",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_16_023151_create_skills_table.php",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_15_061548_create_projects_table.php",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_16_023137_create_geo_table.php",
+		"/D/Learning/Suan Dusit/OD/Project/webservice/app/Http/Controllers/MonitorController.php",
+		"/D/Work/Website/com.syslogmatch/storage/framework/views/c1570ba0d3ce54593925cc1c55683ec74214e046.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/includes/header.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/includes/me-nav.blade.php",
+		"/D/Work/Website/com.syslogmatch/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/me/change-password.blade.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Control/AuthController.php",
+		"/D/Work/Website/com.syslogmatch/app/EmailVerification.php",
+		"/D/Work/Website/net.myserver/app/Http/routes.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Work/Website/com.syslogmatch/.env",
+		"/D/Work/Website/com.syslogmatch/resources/views/mail/contact.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/passwords/email.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/passwords/reset.blade.php",
+		"/D/Work/Website/net.myserver/resources/views/control/emails/verification.blade.php",
+		"/D/Work/Website/net.myserver/database/migrations/2016_04_12_003949_create_email_verification_table.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Auth/PasswordController.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/project/show.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/me/notification/index.blade.php",
+		"/D/Work/Website/com.syslogmatch/app/Notification.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/custom.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_media.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_table.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_bootgrid.scss",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/resources/views/admin/hardware/index.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/layouts/me.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_layout.scss",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_15_110822_create_notifications_table.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/petch-bootstrap-sass-1.0.0/petch-bootstrap/_listview.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/project/show.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_navbar.scss",
+		"/D/Work/Website/com.syslogmatch/app/Bootgrid.php",
+		"/D/Work/Website/com.syslogmatch/storage/logs/laravel.log",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_dropdowns.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/bootstrap-sass-3.3.5/bootstrap/_variables.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/petch-bootstrap-sass-1.0.0/_petch-bootstrap.scss",
+		"/D/Work/Website/com.syslogmatch/app/ProjectOffer.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/resources/views/includes/script.blade.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/resources/views/basic-template.blade.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/resources/views/admin/category/index.blade.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/app/Http/Controllers/Admin/RequestController.php",
+		"/D/Work/Website/com.syslogmatch/public/assets/js/plugins/jquery.bootgrid/1.3.1/jquery.bootgrid.min.js",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Control/NewsCategoryController.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Control/ControlController.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Control/NewsController.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Control/OptionController.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Control/PasswordController.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/Controller.php",
+		"/D/Work/Website/net.myserver/app/Http/Controllers/NewsController.php",
+		"/D/Work/Website/net.myserver/app/Option.php",
+		"/D/Work/Website/net.myserver/app/User.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/app/UserRequests.php",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/app/Http/Controllers/Admin/EquipmentController.php",
+		"/D/Work/Website/com.syslogmatch/resources/lang/th/validation.php",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_15_074509_create_project_offer_table.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/project.scss",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_05_15_052453_create_project_category_table.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/StaticController.php",
+		"/D/Work/Website/com.syslogmatch/.envs",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/static/about/contact.blade.php",
+		"/D/Work/Website/_source/_css/bootstrap/plugins/bootstrap-social-gh-pages/bootstrap-social-gh-pages/bootstrap-social.scss",
+		"/D/Work/Website/com.syslogmatch/resources/views/static/about/contact.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_buttons.scss",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/static/about/index.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/welcome.scss",
+		"/D/Work/Website/com.syslogmatch/resources/views/static/about/index.blade.php",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/static/about/terms.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/static/about/terms.blade.php",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/static/about/privacy.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/static/about/privacy.blade.php",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/layouts/static.blade.php",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/static/howtouse.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/static/howtouse.blade.php",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/static/welcome.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/static/welcome.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/login.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/login-form.blade.php",
+		"/D/Work/Website/com.syslogmatch-20160514/resources/views/includes/statistics.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/login.scss",
+		"/D/Work/Website/com.petch-studio.admin/resources/views/page/form-components.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/profile.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/project/list.scss",
+		"/C/inetpub/wwwroot/viewtax.php",
+		"/D/Learning/Suan Dusit/OD/Project/SDK_Software/915MHz SDK/GUI/C#/Passive Demo/frmMain.cs",
+		"/C/inetpub/wwwroot/salary.php",
+		"/C/Users/Petch/Downloads/salary.php",
+		"/D/Work/Website/com.syslogmatch/database/seeds/UsersTableSeeder.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/includes/script.blade.php",
+		"/D/Work/Website/com.syslogmatch/app/Dbth.php",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Work/Website/com.syslogmatch/public/assets/js/dbth.js",
+		"/D/Work/Website/com.syslogmatch/resources/views/layouts/basic-template.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/me.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/bootstrap-sass-3.3.5/bootstrap/_panels.scss",
+		"/D/Work/Website/com.syslogmatch/public/assets/js/register.js",
+		"/D/Work/Website/com.syslogmatch/database/migrations/2016_04_16_094119_create_address_table.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/me/change-email.blade.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/ApiController.php",
+		"/D/Work/Visual Studio/CPP/Game Server/_source code/WarZ/Infestation/server/src/Scripts/sql_warz_svn/Stored Procedures/dbo.WZ_Backpack_SRV_AlterItem.sql",
+		"/D/Work/Website/th.ac.dusit.sci.56119400031/app/Http/Controllers/Admin/ReportController.php",
+		"/D/Work/Website/com.syslogmatch/database/seeds/DatabaseSeeder.php",
+		"/D/Work/Website/net.myserver/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/includes/link.blade.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"D:\\Work\\Website\\works.petch.hardware-management\\resources",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent",
+			"D:\\Work\\Website\\com.syslogmatch\\resources\\views",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Validation",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Website\\com.syslogmatch\\resources\\views",
+			"D:\\Work\\Website\\com.syslogmatch\\resources\\assets\\sass\\bootstrap-sass-3.3.5",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\server\\src\\Scripts",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\server\\src\\Scripts",
+			"D:\\Work\\Website\\com.syslogmatch\\public\\assets\\js",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Passwords",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\WO_GameServer\\Sources",
+			"D:\\Work\\Website\\_warz_hack",
+			"C:\\inetpub\\wwwroot\\warz_hack",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site\\App_Code",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[CC]BattleSystem",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[CC]BattleSystem",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\4DyuchiGRX_myself97_util",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Lib]YHLibrary_old",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Lib]YHLibrary",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent_old",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Client]MH",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent_old",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Website\\net.myserver\\resources\\views\\control\\page",
+			"D:\\Work\\Website\\net.myserver\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation",
+			"D:\\Work\\Website\\net.myserver\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\net.myserver\\vendor\\laravel",
+			"D:\\Work\\Website\\net.myserver\\app\\Http",
+			"D:\\Work\\Website\\net.myserver\\config",
+			"D:\\Work\\Website\\net.myserver\\app\\Http",
+			"D:\\Work\\Website\\net.myserver\\resources\\views\\control",
+			"D:\\Work\\Website\\net.myserver\\app\\Http\\Controllers\\Control",
+			"D:\\Work\\Website\\net.myserver\\resources\\assets\\sass\\admin\\custom",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Database",
+			"D:\\Work\\Website\\com.last-mso\\resources\\views\\admin",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Database",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\ModelView",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Client]MH",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Website\\com.last-mso\\resources\\assets\\sass\\jasny-bootstrap-sass-3.1.3",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src",
+			"D:\\Work\\Visual Studio\\CPP\\last-mso\\source code\\[Client]MHAutoPatch",
+			"D:\\Work\\Visual Studio\\CPP\\last-mso\\source code\\[Client]MHAutoPatch\\ZipArchive",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources\\GameCode",
+			"D:\\Work\\Visual Studio\\Infestation\\src",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources\\GameCode",
+			"D:\\Work\\Visual Studio\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources\\GameCode",
+			"D:\\Work\\Visual Studio\\Infestation\\src",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\Eternity",
+			"D:\\Work\\Visual Studio\\Infestation\\src",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources",
+			"D:\\Work\\Visual Studio\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources",
+			"D:\\Work\\Visual Studio\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\vendor\\laravel\\framework\\src\\Illuminate\\Encryption",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views\\admin",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views\\manage",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views\\admin",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\assets\\sass\\bootstrap\\mixins",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views",
+			"D:\\Work\\Website",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\public\\assets\\js\\plugins\\jquery.bootgrid",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views",
+			"D:\\Work\\IPST Micro BOX\\_source\\Example_ipst",
+			"C:\\WarZ\\src",
+			"C:\\WarZ",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\app",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\app\\Http\\Middleware",
+			"C:\\WarZ\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.dm-pvp.admin",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\views",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\views\\page",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap\\mixins",
+			"D:\\Work\\Website\\com.dm-pvp.admin",
+			"D:\\Work\\Website\\com.dm-pvp\\",
+			"D:\\Work\\Website\\com.dm-pvp\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"assets/js/plugins",
+			"str_pad",
+			"work-list",
+			"$request",
+			"Request",
+			"city",
+			"$data[",
+			"ProfileController",
+			"work-list",
+			"geo",
+			"request",
+			"b0df282a-0d67-40e5-8558-c9e93b7befed",
+			"project-budgets",
+			"โปรเจ็ค",
+			"skill",
+			"project-category",
+			"category",
+			"project",
+			"city",
+			"province_",
+			"aa",
+			"account-verification",
+			"$this->hasher",
+			"Hash",
+			"bcrypt(",
+			"old-password",
+			"show",
+			"change-password",
+			"span",
+			"me-work-project-list",
+			"freelancer_id",
+			"media",
+			"formatters",
+			"<",
+			"redirect()->back()",
+			"complete",
+			"$project->freelancer_id",
+			"province_id",
+			"{{",
+			"h4",
+			"& > thead > tr > ",
+			".table ",
+			"App\\Notification::getCount(Auth::user()->id) > 0",
+			"project",
+			"notification",
+			"notifications",
+			"profile",
+			"hire",
+			"abort(404);",
+			"h4",
+			">'",
+			"+'<",
+			"+'",
+			"p",
+			"div",
+			"freelancer",
+			"$freelancer",
+			"freelancer",
+			"$freelancer",
+			"freelancer",
+			"$freelancer",
+			"$user",
+			"user",
+			"4",
+			"color(",
+			"App\\Notification::where('recipient_id', Auth::user()->id)->count()",
+			"App",
+			"instance",
+			"ul",
+			"2",
+			"flight",
+			"n find(",
+			"find",
+			"find(",
+			"users",
+			"[column.id]",
+			"project-offer-list",
+			"file_logo",
+			".bootgrid-table th",
+			"zmdi-search",
+			"zmdi",
+			"zmdi zmdi-more-horiz",
+			"mdi-more-horiz",
+			"zmdi ",
+			"span",
+			"a",
+			"active",
+			"project_id",
+			"aaa",
+			")',",
+			" (",
+			" => '",
+			"โปรเจ็คขนาดเล็ก ",
+			"$value->",
+			"',",
+			"getBudget",
+			"xxxx",
+			"3",
+			"div",
+			"project-category",
+			"Request",
+			"'Flight 10'",
+			"project",
+			"name=\"",
+			"name-company",
+			"{{ $errors->has(",
+			"' =>",
+			"note",
+			"ProjectController",
+			"<input ",
+			"btn-social(",
+			"                ",
+			"                    ",
+			"                        ",
+			"                       ",
+			"                      ",
+			"                     ",
+			"                    ",
+			"                   ",
+			"                  ",
+			"                 ",
+			"                ",
+			">\n        </i>",
+			"                ",
+			"></i>",
+			"15",
+			"p",
+			"<p>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url('start-project')",
+			"<?php ",
+			"asset('api/storage/",
+			"D:\\Work\\Website\\_warz_hack\\",
+			"SESSION_KEY",
+			"SESSION_KEY\n//////////////////////////////////////////////////////////////////////",
+			"// Battle.*\\.\n//////////////////////////////////////////////////////////////////////",
+			"// Battle",
+			".\n//////////////////////////////////////////////////////////////////////",
+			"// BattleTeam",
+			".\n//////////////////////////////////////////////////////////////////////",
+			"",
+			"_strupr",
+			"{{ url('options/",
+			"",
+			"control.layouts.page",
+			"fa-caret",
+			"fa-angle-up",
+			"fa-angle-down",
+			"sendStatusSaveResponse",
+			"Option::",
+			"Option",
+			"bg-",
+			"$nav-aside-width",
+			"petchxyz.com",
+			"$brand-dark",
+			"Auth::guard('admin')->",
+			"/",
+			"ssxpetch.com",
+			"/",
+			"\"",
+			"$request",
+			"$type",
+			"$request",
+			"$request->input('",
+			"",
+			"$this->searchPhrase",
+			"$searchPhrase",
+			"$hardware->type",
+			"request->",
+			"span",
+			"@{{",
+			"<i class=\"fa arrow\"></i>",
+			"Auth::user()->admin()",
+			"",
+			"</option><option",
+			"</option>\n<option",
+			"\\\"",
+			"$request->",
+			"',\n      'UsersData.",
+			"',\n      'Accounts.",
+			"",
+			"Account::check",
+			"petch-studio",
+			"D:\\Work\\Website",
+			"assets/images/ex/media/gallery/",
+			"bg-",
+			"h5",
+			"h3",
+			"upload/profile-pics/",
+			"summernote",
+			"light-green",
+			"light-blue",
+			"blue-gray",
+			" white-text bg-",
+			"bg-",
+			"assets/images/ex/media/carousel/",
+			"assets/images/ex/media/gallery/",
+			"assets/images/ex/700x400.gif",
+			"",
+			"text-center bg-white m-b-30 p-t-30 p-r-10 p-b-30 p-l-10",
+			"bg-white m-b-30 p-t-30 p-r-10 p-b-30 p-l-10",
+			"bg-white m-b-30 p-10",
+			"m-b-30 p-10",
+			"'   => [",
+			"\",\n    ],",
+			"\",\n    ];",
+			"        \"",
+			"        ",
+			"\",\n  \"",
+			"\"darken-3\"    => \"",
+			"\"darken-2\"    => \"",
+			"\"darken-1\"    => \"",
+			"\"    => \"",
+			"\"base\"        => \"",
+			"\"        => \"",
+			"\"   => \"#",
+			"\"   => #",
+			"zmdi zmdi-calendar-close",
+			"zmdi zmdi-calendar-check",
+			"zmdi zmdi-calendar",
+			"zmdi zmdi-time",
+			"zmdi zmdi-chevron-up",
+			"zmdi zmdi-chevron-down",
+			"zmdi zmdi-long-arrow-right",
+			"zmdi zmdi-long-arrow-left",
+			"f-bold",
+			"$brand-primary",
+			"",
+			"<i class=\\\"zmdi zmdi-more-horiz\\\"></i>",
+			"<i class=\\\"zmdi zmdi-chevron-left\\\"></i>",
+			"@{{",
+			"class=\"m-checkbox checkbox-inline\"",
+			".jpg') }}\"",
+			"{{ url('assets/images/ex/profile-pics/",
+			"url('assets/images/",
+			".png') }}\"",
+			"\"{{ url('images/ex/social/",
+			"images/ex/social/",
+			"images/ex/social/facebook-128.png",
+			"",
+			"&",
+			"assets/images/headers/square/",
+			"\n  ",
+			"",
+			"gray",
+			"white-text",
+			"blue-grey",
+			"bg-",
+			"",
+			"./",
+			"upload/profile-pics",
+			"upload/profile",
+			"&",
+			"UserPoint",
+			"",
+			"->",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ob477",
+				"storage\\framework\\views\\0b477ca522a20c9d012ffaaaef6d6705"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Work\\Website\\com.dm-pvp\\deathmatch-pvp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

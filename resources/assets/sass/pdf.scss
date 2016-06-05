@@ -1,0 +1,83 @@
+@import "bootstrap-sass-3.3.5/bootstrap/variables";
+
+body {
+	background-color: #FFF;
+	color: #444;
+	font-family: 'thsarabunnew';
+	font-size: 14px;
+	line-height: 1.25;
+}
+
+.wraper {
+	
+}
+
+.pdf {
+	background-color: #FFF;
+	margin: 40px auto;
+	border: 1px solid #e2e2e2;
+	border-radius: 5px;
+}
+
+.pdf-title {
+	margin: 0;
+}
+
+.pdf-header {
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.pdf-logo {
+	float: left;
+	text-align: center;
+	width: 120px;
+	padding-top: 5px;
+}
+
+.pdf-logo-img {
+	width: 30px;
+}
+
+.pdf-address {
+	margin-left: 120px;
+}
+
+.pdf-name {
+}
+
+.pdf-requests {
+	h2 {
+		font-size: 18px;
+		font-weight: bold;
+		padding-bottom: 5px;
+		margin: 0 0 5px;
+		border-bottom: 2px solid $brand-primary;
+	}
+}
+
+.pdf-label {
+	padding-right: 8px;
+	width: 100px;
+	font-weight: bold;
+	float: left;
+	text-align: right;
+}
+
+.pdf-text {
+	//
+}
+
+.wrapper-pdf {
+	font-size: 18px;
+
+	.container {
+		padding: 0;
+	}
+
+	.pdf {
+		margin: 0;
+	}
+
+	.pdf-header {
+	}
+}

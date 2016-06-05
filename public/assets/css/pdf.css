@@ -1,0 +1,65 @@
+body {
+  background-color: #FFF;
+  color: #444;
+  font-family: 'thsarabunnew';
+  font-size: 14px;
+  line-height: 1.25;
+}
+
+.pdf {
+  background-color: #FFF;
+  margin: 40px auto;
+  border: 1px solid #e2e2e2;
+  border-radius: 5px;
+}
+
+.pdf-title {
+  margin: 0;
+}
+
+.pdf-header {
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.pdf-logo {
+  float: left;
+  text-align: center;
+  width: 120px;
+  padding-top: 5px;
+}
+
+.pdf-logo-img {
+  width: 30px;
+}
+
+.pdf-address {
+  margin-left: 120px;
+}
+
+.pdf-requests h2 {
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 5px;
+  margin: 0 0 5px;
+  border-bottom: 2px solid #337ab7;
+}
+
+.pdf-label {
+  padding-right: 8px;
+  width: 100px;
+  font-weight: bold;
+  float: left;
+  text-align: right;
+}
+
+.wrapper-pdf {
+  font-size: 18px;
+}
+
+.wrapper-pdf .container {
+  padding: 0;
+}
+
+.wrapper-pdf .pdf {
+  margin: 0;
+}
